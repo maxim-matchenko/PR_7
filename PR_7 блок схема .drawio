@@ -1,0 +1,365 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="Ddtp0OgbeRSFpyukUt0D">
+    <mxGraphModel dx="975" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-71" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-1043" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="-1123" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-7" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Введите старт. капитал" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-563" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-10" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод n" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-443" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-11" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="try" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-323" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-15" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Введите ежемесячный рост дохода" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-203" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-17" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод p" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-83" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-19" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="try" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-21" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Введите целевую сумму" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="157" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-23" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод S" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="277" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-25" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="try" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="397" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-27" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sum =&amp;nbsp; 0" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-112" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="d = n" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="637" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-31" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="M = 0" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-33" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="max =&amp;nbsp; 10000" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="877" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-36" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-32" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="997" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="m = 1, max, m++" vertex="1">
+          <mxGeometry height="30" width="110" x="325" y="1022" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-38" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sum = Sum + d" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="1117" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Sum&amp;gt;=S" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="1237" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-45" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="M = m" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="1317" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="d = d*(1+p/100)" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="1317" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-41" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="duDaQ-QsuCFEvIeu3Fj0-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="1277" as="sourcePoint" />
+            <mxPoint x="370" y="1227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-42" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="duDaQ-QsuCFEvIeu3Fj0-40" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="1277" as="sourcePoint" />
+            <mxPoint x="380" y="1317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-43" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1437" />
+              <mxPoint x="600" y="1437" />
+              <mxPoint x="600" y="1097" />
+              <mxPoint x="380" y="1097" />
+            </Array>
+            <mxPoint x="500" y="1397" as="sourcePoint" />
+            <mxPoint x="380" y="1097" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-44" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Даня М. сможет отправиться в тур {year} лет" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="1437" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-49" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="-283" as="sourcePoint" />
+            <mxPoint x="700" y="877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-51" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="77" as="sourcePoint" />
+            <mxPoint x="700" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-52" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="436.5" as="sourcePoint" />
+            <mxPoint x="700" y="436.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-78" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-54" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Что-то пошло не так, ошибка" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="997" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-56" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="1557" as="sourcePoint" />
+            <mxPoint x="700" y="1557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-60" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="700" y="1557" as="sourcePoint" />
+            <mxPoint x="700" y="1197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-61" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="1557" as="sourcePoint" />
+            <mxPoint x="260" y="1517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="1037" as="sourcePoint" />
+            <mxPoint x="620" y="1037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="620" y="1557" as="sourcePoint" />
+            <mxPoint x="620" y="1037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-64" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="499.71" y="1597" as="sourcePoint" />
+            <mxPoint x="499.71" y="1557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-65" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="1597" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-67" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-66" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Изменение цвета шрифта сообщения об ошибке на темно-красный" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="877" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-72" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-69" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Введите старт. капитал" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-683" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-75" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-73" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Изменение цвета консоли на желтый&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-1043" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-76" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="duDaQ-QsuCFEvIeu3Fj0-88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-74" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Изменение шрифта консоли на темно-фиолетовый" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-923" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-77" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Изменение шрифта консоли на темно-фиолетовый" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="1117" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="327" y="-1140" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-1058" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="3" vertex="1">
+          <mxGeometry height="30" width="60" x="327" y="-937" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="5" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-698" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="6" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-577" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="7" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-458" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-92" edge="1" parent="1" source="duDaQ-QsuCFEvIeu3Fj0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="duDaQ-QsuCFEvIeu3Fj0-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-88" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Здравствуйте" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-803" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="4" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-817" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="8" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-325" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="9" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-218" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="10" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="-98" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="11" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="12" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="13" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="263" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="14" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="15" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="16" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="622" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="17" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="741" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="18" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="19" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="982" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="20" vertex="1">
+          <mxGeometry height="30" width="60" x="328" y="1102" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="21" vertex="1">
+          <mxGeometry height="30" width="60" x="328" y="1235" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="22" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="1302" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="23" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="1423" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="24" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="1302" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="25" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="26" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="982" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="27" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="1102" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="28" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="1582" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-130" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="1077" as="geometry" />
+        </mxCell>
+        <mxCell id="duDaQ-QsuCFEvIeu3Fj0-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#000000;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size: 9pt; background-color: transparent;&quot;&gt;&amp;nbsp;# cоставление программ циклической структуры: цикл с параметром&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="10" y="-1118" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
