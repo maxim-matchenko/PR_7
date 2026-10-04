@@ -38,7 +38,7 @@ namespace pr7
                         M = m;
                         break;// Досрочный выход из цикла
                     }
-                    d = d * (1 + p / 100);
+                    d = d * (1 + p / 100); // расчет увеличения дохода
                 }
                 double year = (double)M / 12.0;
                 Console.WriteLine($"Даня М. сможет отправиться в тур через {(Math.Round(year, 1))} лет.");
