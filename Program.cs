@@ -32,7 +32,7 @@ namespace pr7
                 int max = 10000; // верхняя граница цикла
                 for (int m = 1; m <= max; m++) // цикл for
                 {
-                    Sum += d;
+                    Sum += d; // подсчет текущей суммы 
                     if (Sum >= s)
                     {
                         M = m;
