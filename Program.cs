@@ -42,9 +42,9 @@ namespace pr7
                     return;
                 }
                 double Sum = 0; // инициализация накопленной суммы
-                double currentIncome = initialCapital; // текущий ежемесячный доход
-                int totalMonth = 0;      // месяц
-                int maxMonth = 10000; // верхняя граница цикла
+                double currentIncome = initialCapital;
+                int totalMonth = 0; // месяц
+                int maxMonth = 10000;
                 for (int month = 1; month <= maxMonth; month++)
                 {
                     Sum += currentIncome; // накопление текущей суммы
@@ -56,7 +56,7 @@ namespace pr7
                     currentIncome = currentIncome * (1 + monthlyGrowthPercent / 100); // увеличение дохода
                 }
                 double year = (double)totalMonth / 12.0; // расчет лет 
-                Console.WriteLine($"\nДаня М. сможет отправиться в тур через {(Math.Round(year, 1))} лет.");
+                Console.WriteLine($"\nДаня М. сможет отправиться в тур через {(Math.Round(year, 1))} лет."); 
             }
             catch (Exception e) // обработка исключений (ошибок ввода текста вместо чисел)
             {
@@ -64,7 +64,7 @@ namespace pr7
                 Console.WriteLine("\nЧто-то пошло не так. Ошибка: " + e.Message); // вывод на экран ошибки
                 Console.ForegroundColor = ConsoleColor.DarkMagenta;
                 Console.ReadKey(); // Задержание экрана консоли
-            }
+            }   
         }
     }
 }
