@@ -12,3 +12,8 @@ initialCapital=-1000
 monthlyGrowthPercent=5
 targetAmount=100000
 Ответ концоли: Ошибка: Введенные значения должны быть больше нуля!
+Проверочные данные №4
+initialCapital=10000
+monthlyGrowthPercent=5
+targetAmount=1000
+Ответ концоли: Ошибка: Целевая сумма должна быть больше стартового капитала!
