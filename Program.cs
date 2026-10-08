@@ -12,18 +12,18 @@ namespace pr7
         static void Main(string[] args)
         {
             Console.Title = "Практическая работа №7"; // Заголовок консоли
-            double initialCapital, monthlyGrowthPercent, targetAmount; // Объявление переменных (вещественные)
+            double initialCapital, monthlyGrowthPercent, targetAmount; 
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             Console.Clear(); // Очистка консоли
             Console.WriteLine("Здравствуйте!");
             try
             {
-                Console.Write("Введите стартовый капитал (initialCapital): ");
+                Console.Write("Введите стартовый капитал: ");
                 initialCapital = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Введите ежемесячный рост дохода в процентах (pmonthlyGrowthPercent): ");
+                Console.Write("Введите ежемесячный рост дохода в процентах: ");
                 monthlyGrowthPercent = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Введите целевую сумму (targetAmount): ");
+                Console.Write("Введите целевую сумму: ");
                 targetAmount = Convert.ToDouble(Console.ReadLine());
                 if (initialCapital <= 0 || monthlyGrowthPercent <= 0 || targetAmount <= 0)
                 {
