@@ -11,11 +11,11 @@ namespace pr7
     {
         static void Main(string[] args)
         {
-            Console.Title = "Практическая работа №7"; // Заголовок консоли
+            Console.Title = "Практическая работа №7"; 
             double initialCapital, monthlyGrowthPercent, targetAmount; 
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
-            Console.Clear(); // Очистка консоли
+            Console.Clear(); 
             Console.WriteLine("Здравствуйте!");
             try
             {
